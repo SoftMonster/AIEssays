@@ -16,7 +16,7 @@ I am currently starting a series on the topic of monetizing AI, focusing on how 
 
 ## GitHub Page for Further Exploration
 
-For more details on my projects and AI-related writings, feel free to explore my [GitHub profile](SoftMonster.GitHub.io). You’ll find more content, code samples, and resources that demonstrate how AI can be integrated into various fields.
+For more details on my projects and AI-related writings, feel free to explore my [GitHub profile](https://softmonster.github.io/). You’ll find more content, code samples, and resources that demonstrate how AI can be integrated into various fields.
 
 ---
 
