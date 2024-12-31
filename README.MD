@@ -12,7 +12,7 @@ I have created a couple of sample web pages, showcasing essays that were develop
 
 ## Monetization of AI - A New Series on Substack
 
-I am currently starting a series on the topic of monetizing AI, focusing on how individuals can leverage AI to generate income, optimize their workflows, and transform their careers. This series will be published on my [Substack page](https://your-substack-url.com).
+I am currently starting a series on the topic of monetizing AI, focusing on how individuals can leverage AI to generate income, optimize their lives, and transform their careers. [I mention it here](https://softmonster.github.io/AIEssays/Monetizing.AI/Substack.html).
 
 ## GitHub Page for Further Exploration
 
