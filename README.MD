@@ -7,7 +7,7 @@ Welcome to my GitHub repository! In this collection, I share a variety of essays
 I have created a couple of sample web pages, showcasing essays that were developed in partnership with AI. These pages serve as examples of how AI can be utilized in content creation. You can check them out here:
 
 - [Sample Essay 1: Improving KeeperRL, Lessons from Top Competitors](https://softmonster.github.io/AIEssays/Game.Development/KeeperRL.Lessons.From.Competitors.html)
-- [Sample Essay 2: Monetizing AI: New Opportunities for Everyday People]((https://softmonster.github.io/AIEssays/Game.Development/KeeperRL.Lessons.From.Competitors.html)
+- [Sample Essay 2: Expansion Opportunities for Trading 212 by Examining Binance's Success](https://softmonster.github.io/AIEssays/Business%20Opportunities/Trading212.html)
 )
 
 ## Monetization of AI - A New Series on Substack
