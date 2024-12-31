@@ -6,8 +6,9 @@ Welcome to my GitHub repository! In this collection, I share a variety of essays
 
 I have created a couple of sample web pages, showcasing essays that were developed in partnership with AI. These pages serve as examples of how AI can be utilized in content creation. You can check them out here:
 
-- [Sample Essay 1: Exploring the Impact of AI on Modern Workflows](example1.html)
-- [Sample Essay 2: Monetizing AI: New Opportunities for Everyday People](example2.html)
+- [Sample Essay 1: Exploring the Impact of AI on Modern Workflows](https://softmonster.github.io/AIEssays/Game.Development/KeeperRL.Lessons.From.Competitors.html)
+- [Sample Essay 2: Monetizing AI: New Opportunities for Everyday People]((https://softmonster.github.io/AIEssays/Game.Development/KeeperRL.Lessons.From.Competitors.html)
+)
 
 ## Monetization of AI - A New Series on Substack
 
